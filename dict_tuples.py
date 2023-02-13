@@ -26,3 +26,5 @@ print(wife_total)
 
 print(wife_total-total)
 
+#import numpy as np
+
