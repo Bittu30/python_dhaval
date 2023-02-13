@@ -47,6 +47,10 @@ print(david)
 print(david.get_age())
 print(david.get_average_scores())
 
-print(virat < david) #awesome
+print(virat < david)
+
+
+
+
 
 
