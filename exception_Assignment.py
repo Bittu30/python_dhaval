@@ -7,5 +7,7 @@ i = int(input("Enter index:"))
 try:
     print(lst[i])
 except Exception as e:
-    print("Generic Exception Ocured")
+    print("Generic Exception Occured")
 """
+
+
